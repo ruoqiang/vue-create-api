@@ -19,7 +19,7 @@ $ npm install vue-create-api
 ## 使用
 
 ``` js
-import CreateAPI from 'create-api'
+import CreateAPI from 'vue-create-api'
 
 Vue.use(CreateAPI)
 
